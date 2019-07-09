@@ -1,4 +1,4 @@
-# Akka - Travelling Salesman Problem
+# Akka - Traveling Salesman Problem
 ## Introduction
 * Use Akka to demo a small system for solving TSP
 * 1 solver assign this task to 4 searchers
@@ -6,7 +6,7 @@
 * Use Greedy Algorithm to solve TSP
 ## Akka Actions
 ![picture](AkkaTSP/Introduction.jpg)
-## Travelling Salesman Problem - Greedy Algorithm
+## Traveling Salesman Problem - Greedy Algorithm
 1. Find minimum path of all paths and add it to route.
 2. If it can be added, add next minimum path to route. 
 3. If it cannot, move to next minimum path and repeat. 
